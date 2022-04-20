@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tts</string>
+    <string name="t1">Native Text to Speech</string>
+    <string name="t2">Get Current Location</string>
+    <string name="t3">Text to Speech</string>
+    <string name="t4">Location</string>
+</resources>
